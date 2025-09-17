@@ -1,1 +1,1 @@
-# contoh-ripo-github
+rename c.html to index.html
